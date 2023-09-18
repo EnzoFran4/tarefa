@@ -1,0 +1,15 @@
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.csproj.AssemblyReference.cache
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.AssemblyInfoInputs.cache
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.AssemblyInfo.cs
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.csproj.CoreCompileInputs.cache
+C:\Users\2022102020022\source\repos\tarefa\tarefa\bin\Debug\net6.0\tarefa.exe
+C:\Users\2022102020022\source\repos\tarefa\tarefa\bin\Debug\net6.0\tarefa.deps.json
+C:\Users\2022102020022\source\repos\tarefa\tarefa\bin\Debug\net6.0\tarefa.runtimeconfig.json
+C:\Users\2022102020022\source\repos\tarefa\tarefa\bin\Debug\net6.0\tarefa.dll
+C:\Users\2022102020022\source\repos\tarefa\tarefa\bin\Debug\net6.0\tarefa.pdb
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.dll
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\refint\tarefa.dll
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.pdb
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\tarefa.genruntimeconfig.cache
+C:\Users\2022102020022\source\repos\tarefa\tarefa\obj\Debug\net6.0\ref\tarefa.dll
